@@ -1,0 +1,256 @@
+Timestamp,Write down your name.,How old are you?,Your gender?,Mention your profession? (If you are a student then please mention what you are currently pursuing),How long have you been in this profession?  (If you are a student then do write your current year of study),How are you really feeling today?,What's your escape? (Hobby),How long do you think you sleep?,What brings you joy or makes you feel good lately?,Do you feel overwhelmed by anything right now?,I had difficulty calming down and relaxing.,I was aware of the dryness in my mouth.,I couldn’t seem to experience any positive feeling at all.,"I experienced breathing difficulty (e.g. excessively rapid breathing, breathlessness in the absence of physical exertion)",I found it difficult to work up the initiative to do things.,I tended to over-react to situations.,I experienced trembling (e.g. in the hands).,I felt that I was using a lot of nervous energy.,I was worried about situations in which I might panic and make a fool of myself.,I felt that I had nothing to look forward to.,I found myself getting agitated(or anxious),I found it difficult to relax.,I felt downhearted and blue.,I was intolerant of anything that kept me from getting on with what I was doing.,I felt I was close to panic., I was unable to become enthusiastic about anything., I felt I wasn’t worth much as a person.,I felt that I was easily irritated.,I noticed my heart racing or skipping beats when I wasn't exerting myself physically.,I felt scared without any good reason.,I felt that life was meaningless.,Score,Result
+9/8/2024 12:24:02,Priyanshu Priyadarshi,19,Male,B.Tech,4th year,Neutral ,Video games ,6-7 hour,Being with my family and friends,Yes,1,0,1,2,3,2,3,1,2,0,2,3,1,1,1,2,2,3,3,3,0,36,Extremely Severe
+9/8/2024 12:39:55,Gaurav Kumar,20,Male,B.Tech,4th year,Neutral ,Exploring New Tech and learning new things,6-7 hour,Nothing,Yes,2,0,1,0,1,1,0,0,1,0,2,1,2,2,0,1,0,1,0,0,0,15,Mild
+9/8/2024 12:45:57,Shreyanshi Dixit,22,Female,B.Tech,4th year,Tired,Reading,5-6 hour,Friends,Yes,3,0,2,1,3,2,3,3,3,2,3,3,3,2,2,3,3,2,2,3,3,51,Extremely Severe
+9/8/2024 12:47:47,Ayush Yadav,22,Male,B.Tech,4th year ,Good,"Sleeping, watching movies",6-7 hour,Sleep,No,1,0,0,0,3,1,0,1,1,0,2,2,1,0,1,0,3,2,1,1,0,20,Moderate
+9/14/2024 13:24:37,Akanksha Mishra ,22,Female,Bachelor of science ,3rd year,Neutral ,"Listening to songs , Getting close to nature ",9-10 hour,That I am surrounded with so genuine and lovely people in my life ,Yes,2,0,2,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2,0,2,2,34,Extremely Severe
+9/8/2024 16:52:58,Farhan ,21,Male,B.Tech,4th year,Good,Prayer ,7-8 hour,Knowledge ,No,0,2,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,Normal
+9/8/2024 18:57:56,Tara,18,Female,Bachelor of science ,1st year,Neutral ,Binge eating,11-12 hour,Food and my boyfriend ,Yes,2,3,1,2,1,1,1,3,2,1,2,2,2,2,2,1,0,1,3,0,0,32,Severe
+9/8/2024 21:16:34,Aditya dhaka ,21,Male,Bachelor of science ,1st year,Stressful,Badminton and music ,8-9 hour,Music and being in my own imagination (delusion),Yes,2,1,1,0,2,1,0,2,3,2,3,2,3,1,1,1,1,3,1,3,0,33,Severe
+9/9/2024 13:01:34,Sapna Singh,20,Female,B.Tech,4th year,Tired,Dance,8-9 hour,Being alone,No,2,1,2,0,3,1,3,3,3,0,2,0,1,3,0,3,3,2,3,3,0,38,Extremely Severe
+9/9/2024 17:26:22,Prachi,20,Female,B.Tech,3rd year,Sad,Sleeping,11-12 hour,Mountain ,No,3,0,3,3,1,0,3,2,1,2,2,2,3,2,2,3,2,3,2,2,3,44,Extremely Severe
+9/9/2024 20:00:51,Snigdha Awasthi ,18,Female,Bachelor of science ,1st year,Neutral ,Sketching,7-8 hour,Religious ceremonies ,Yes,0,2,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,8,Normal
+9/10/2024 9:26:42,Alisha,21,Female,Bachelor of science ,2nd year,Neutral ,"Reading, Music",6-7 hour,Spicy food,Yes,2,2,1,1,2,1,1,2,3,2,2,2,1,2,2,1,2,1,1,2,0,33,Severe
+9/12/2024 13:01:44,Himanshu Singh ,19,Male,B.Tech,2nd year,Good,Gym,8-9 hour,"Gym, songs and anime",No,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,5,Normal
+9/17/2024 17:59:03,Vishal Kumar ,22,Male,B.Tech,3rd year ,Good,Playing football ,9-10 hour,Gedi with ganni,No,0,0,0,0,1,1,0,0,1,1,0,2,1,0,2,2,2,1,2,2,2,20,Moderate
+9/14/2024 13:30:04,Addya Bajpai ,22,Female,B.Tech,1st year,Good,Music ,7-8 hour,Family ,No,3,1,2,1,3,3,3,3,3,3,3,3,2,1,2,2,3,1,2,2,1,47,Extremely Severe
+9/14/2024 20:11:01,IBADURRAHAMAN ,20,Male,B.Tech,2nd year ,Good,PLAYING BADMINTON AND GYM,6-7 hour,TALK WITH SPECIAL PERSON ,No,1,1,0,1,1,2,0,2,1,2,1,1,2,2,1,1,2,1,2,2,1,27,Severe
+9/14/2024 20:11:46,Priyanshi Gaur ,21,Female,Working professional ,1st year ,Good,"To read books , listening music, dance",7-8 hour,When someone appreciate my efforts or anything related to me,Yes,1,0,0,1,1,0,0,1,1,0,2,1,0,0,0,0,1,1,1,0,0,11,Normal
+9/14/2024 20:11:53,Arpit Guptrishi ,20,Male,B.Tech,2nd Year ,Stressful,PC Video Games,6-7 hour,Video Games,Yes,2,0,1,0,2,2,1,1,3,1,2,1,2,0,0,1,2,1,0,3,0,25,Moderate
+9/14/2024 20:16:14,Nikita ,21,Female,B.Tech,1st year,Stressful,"Songs, walks",7-8 hour,"Good food, some code solving on my own",No,2,1,1,0,2,1,0,3,3,0,3,1,0,2,0,2,0,2,0,0,1,24,Moderate
+9/14/2024 20:22:39,shivangi verma,20,Female,B.Tech,3rd year,Sad,watching movies or cooking,7-8 hour,shopping,Yes,3,2,1,2,1,3,2,1,1,3,3,2,2,3,1,2,3,3,3,3,3,47,Extremely Severe
+9/14/2024 20:23:34,Mahima Bhardwaj ,21,Female,Working professional ,5 years,Stressful,Listening music ,5-6 hour,Yoga or music ,No,3,1,3,1,1,3,3,3,3,3,3,3,3,3,3,1,3,3,1,2,1,50,Extremely Severe
+9/14/2024 20:27:43,Shruti Ojha,21,Female,B.Tech,4th year,Good,Drawing ,5-6 hour,Music,No,2,1,3,0,3,1,0,2,1,3,2,2,2,2,1,1,3,2,2,2,3,38,Extremely Severe
+9/14/2024 20:30:23,Riya ,19,Female,B.Tech,1st year,Good,"Crocheting , singing , dancing , painting",6-7 hour,"My family , friends and dogs",Yes,2,0,1,3,2,2,3,2,3,1,2,1,3,1,3,3,3,3,3,2,2,45,Extremely Severe
+9/14/2024 20:42:59,Prerna ,22,Female,Working professional ,1 year,Sad,Books,7-8 hour,Songs,Yes,1,0,1,1,1,1,1,1,2,1,2,1,1,0,1,0,0,2,1,1,1,20,Moderate
+9/14/2024 20:49:55,Asjad khan,19,Male,B.Tech,2nd year,Good,Gaming,7-8 hour,Playing games ,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/14/2024 20:53:14,Charu Patel ,20,Female,B.Tech,2nd year,Neutral ,"Poetry, music, journaling ",7-8 hour,Tasty food. Cute dresses. Taking care of my potted plants. My cat ,Yes,2,0,3,0,3,3,0,3,3,3,2,2,3,2,1,2,2,3,0,2,3,42,Extremely Severe
+9/14/2024 20:54:57,Jitin chakraborty,23,Male,B.Tech,1st year,Good,Listening songs,8-9 hour,To have a conversation with my loved ones,No,1,2,1,0,2,2,1,1,2,1,2,1,1,2,1,1,2,2,2,2,1,30,Severe
+9/14/2024 21:00:09,Gaurav Chauhan ,21,Male,B.Tech,4th year,Good,"Listening music, watching vedios and sketching ",6-7 hour,Hang out with friends ,Yes,0,0,2,2,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,1,2,25,Moderate
+9/14/2024 21:04:36,Divyanshu Rajput ,19,Male,B.Tech,1st year,Sad,Shayari,4-5 hour,Ragging by my seniors...,No,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,6,Normal
+9/14/2024 21:12:13,Vineet ,21,Male,B.Tech,4th year,Good,"Watching movies, playing cricket ",7-8 hour,When I complete my daily study hrs.,Yes,1,1,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,0,0,7,Normal
+9/14/2024 21:15:31,Divyanshi ,19,Female,B.Tech,2nd year,Neutral ,Sketching ,6-7 hour,Reading ,No,1,0,0,0,2,1,0,1,0,0,1,0,0,0,0,2,0,2,0,0,0,10,Normal
+9/14/2024 21:31:55,Aditya Pratap Singh Arya ,18,Male,B.Tech,2nd year,Good,Traveling ,7-8 hour,Time spent with family ,No,1,0,0,0,1,0,0,0,2,2,1,1,1,0,1,2,1,0,0,0,0,13,Normal
+9/14/2024 21:36:00,DHIRENDER PRATAP SINGH ,22,Male,B.Tech,4th year,Tired,Animes ,4-5 hour,Eating sweet stuff ,No,0,1,2,1,0,0,0,0,2,0,0,0,1,1,0,0,1,2,1,0,2,14,Normal
+9/14/2024 21:41:28,Aditi kumari,20,Female,B.Tech,3rd year,Good,Dancing ,6-7 hour,Talks between family and friends ,No,2,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,2,1,2,0,12,Normal
+9/14/2024 21:44:21,Ayush,21,Male,B.Tech,3rd year ,Tired,"Rubik's cube, anime",7-8 hour,Coffee ☕,Yes,0,1,1,0,3,0,0,0,0,3,1,0,0,0,0,1,3,0,3,1,3,20,Moderate
+9/14/2024 22:00:59,Sheetal Jaiswal ,21,Female,Working professional ,1 month,Good,Dance,7-8 hour,Spending time with friends,No,2,1,1,0,1,2,1,1,1,1,2,1,1,2,0,0,1,2,1,1,0,22,Moderate
+9/14/2024 22:03:13,Isha sharma,21,Female,B.Tech,Graduate,Neutral ,Cooking dancing,5-6 hour,Talking to my fav person,No,1,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,10,Normal
+9/14/2024 22:07:40,Manu shree,20,Female,B.Tech,3rd year,Sad,Listening song,5-6 hour,Don't know,Yes,3,0,3,2,0,2,3,2,3,3,2,1,2,1,2,2,3,2,0,2,3,41,Extremely Severe
+9/14/2024 22:10:00,Aradhana ,20,Female,B.Tech,2nd year,Good,Dancing ,7-8 hour,Music,No,0,0,1,0,1,1,0,0,1,1,1,1,0,1,0,1,1,2,0,0,0,12,Normal
+9/14/2024 22:10:17,Saloni Singh ,19,Female,Bachelor of science ,3rd year,Neutral ,Playing badminton and singing ,6-7 hour,Family ,No,3,0,0,0,0,3,0,3,1,0,1,1,1,1,0,1,1,1,1,1,1,20,Moderate
+9/14/2024 22:20:19,Rishabh ojha,20,Male,MBBS,1st year,Good,Car driving ,6-7 hour,    ????,No,0,0,0,1,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,7,Normal
+9/14/2024 22:49:57,Bhawana,23,Female,MBBS,Completed the graduation ,Good,Hangouts with friends and siblings ,7-8 hour,Spending time with loved ones,Yes,1,0,1,1,0,2,0,1,0,0,0,0,1,0,1,0,1,2,1,0,1,13,Normal
+9/14/2024 22:52:08,Chetan,22,Male,B.Tech,Passed out in 2024,Stressful,"Cricket, Chill out with my brother, Watching Movies",7-8 hour,Spending time with my brother,No,1,0,0,0,0,0,1,1,3,2,1,0,1,0,1,1,2,1,0,0,3,18,Mild
+9/14/2024 22:52:34,Anuj,19,Male,B.Tech,2nd year ,Good,"Prayer ,gym and cricket (friends too)",7-8 hour,God,Yes,0,1,0,0,1,1,0,0,2,0,0,0,0,0,2,0,0,2,0,1,0,10,Normal
+9/14/2024 23:02:09,Deepanshi,18,Female,MBBS,1st year ,Sad,"Hanging out with friends, drawing, watching series ",5-6 hour,Tasty Food 🥰,Yes,3,1,2,0,3,1,1,1,2,2,1,1,2,3,1,3,2,3,0,0,3,35,Extremely Severe
+9/15/2024 2:39:38,Kanishka saxena,20,Female,B.Tech,3rd year,Good,Sleep,8-9 hour,Chilling with friends,Yes,1,0,2,0,2,0,0,2,3,3,1,2,1,2,0,3,2,3,1,3,3,34,Extremely Severe
+9/15/2024 7:17:49,Divya Thakur ,20,Female,MBBS,3rd year,Good,"Reading books, dancing, travelling ",6-7 hour,"Talking with friends, playing with puppies and having chocolate.",Yes,1,2,1,0,1,2,1,2,1,0,2,1,1,1,0,1,2,1,1,1,1,23,Moderate
+9/15/2024 10:46:04,shailja singh ,18,Female,MBBS,1st year,Good,to encourage  knowlage,5-6 hour,visiting out ,No,2,2,0,2,2,3,2,3,3,1,2,3,3,3,1,2,2,1,0,3,3,43,Extremely Severe
+9/15/2024 11:07:27,Saurav Singh ,22,Male,Working professional ,1 month,Tired,Playing badminton ,6-7 hour, Parent's happiness because of me and watching people helping each other.,No,1,1,0,0,1,2,0,2,2,3,3,2,1,3,2,2,3,3,2,2,3,38,Extremely Severe
+9/15/2024 11:26:09,AYUSH VARSHNEY ,22,Male,B.Tech,4th year,Sad,Playing BGMI,5-6 hour,Good Simple Home Made Idli Sambhar ,Yes,0,0,0,0,3,2,1,1,0,1,3,0,1,0,0,1,2,3,3,2,0,23,Moderate
+9/15/2024 12:42:44,Tanu Sharma,19,Female,Bachelor of science ,4th year,Tired,"Dancing,singing,books",6-7 hour,Sitting with yourself,No,2,2,1,1,1,2,0,1,1,0,1,1,3,2,3,1,2,3,2,1,0,30,Severe
+9/15/2024 12:58:51,Harsh,21,Male,Working professional ,1 year,Neutral ,ANIME and Swimming ,7-8 hour,Traveling ,Yes,1,0,1,0,2,2,1,3,1,3,2,1,0,0,1,2,1,1,0,0,0,22,Moderate
+9/15/2024 14:29:18,Fe,21,Female,Working professional ,1st year,Stressful,"Reading, photography, cooking, dancing",7-8 hour,"I've been focusing on personal growth, and seeing small improvements un myself, like learning new skills, has been really satisfying.",No,0,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,6,Normal
+9/15/2024 16:07:39,Prasann Arora,21,Male,B.Tech,4th year,Neutral ,Reading/football,6-7 hour,a walk in the rain,Yes,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,Normal
+9/15/2024 18:53:48,Aryan Chauhan,19,Male,MBBS,1st year,Neutral ,Gymming,6-7 hour,Eating good food and no stress,Yes,1,1,2,0,2,2,0,1,1,0,2,1,1,1,1,1,1,1,1,1,0,21,Moderate
+9/15/2024 22:03:38,Ajikya Sharma,21,Male,B.Tech,4th year,Tired,listening music,8-9 hour,tasty food,Yes,1,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,8,Normal
+9/15/2024 23:38:38,Harsh,20,Male,B.Tech,2nd year,Stressful,Listen music,8-9 hour,Joy kesi cheez nhi hoti,No,3,2,3,2,2,3,2,1,3,3,2,2,2,2,1,3,1,2,2,2,2,45,Extremely Severe
+9/16/2024 12:22:54,Raj Saini,20,Male,B.Tech,4th year,Stressful,Writing poetry and reading novels.,4-5 hour,Nothing.,No,1,1,3,1,2,3,2,2,1,2,3,2,1,2,2,1,2,2,2,1,1,37,Extremely Severe
+9/16/2024 12:52:47,Purab,18,Male,Bachelor of science ,1st year,Good,Sports,5-6 hour,Spending time with some persons,No,1,3,0,0,1,1,0,2,3,1,1,1,1,1,1,0,2,1,0,0,2,22,Moderate
+9/16/2024 17:01:57,Rajat,21,Male,B.Tech,4th year,Neutral ,Noting ,6-7 hour,Noting ,No,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,2,0,0,0,0,0,8,Normal
+9/16/2024 19:27:49,Shikhar Gupta ,19,Male,B.Tech,2nd year,Neutral ,"Listening to music, gym, drums",7-8 hour,When someone makes me feel prioritised and care about me...even a bit,Yes,1,2,1,2,2,1,1,1,1,1,1,3,2,1,1,3,2,1,0,0,2,29,Severe
+9/16/2024 21:11:32,Preena singh,21,Female,MBBS,2nd year,Neutral ,Series,7-8 hour,Nothing ,No,1,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,1,2,0,0,1,13,Normal
+9/16/2024 23:48:41,Abhinaw Anand,21,Male,MBBS,2nd year,Neutral ,Listening to music,6-7 hour,Wandering around with friends,No,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,9,Normal
+9/17/2024 12:11:40,Utkarsh ,19,Male,MBBS,1st year ,Good,Lifting weights ,4-5 hour,Music,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Normal
+9/17/2024 12:16:51,Priti Kumari kushvaha ,24,Female,B.Tech, 4th year,Good,Eating and dancing ,6-7 hour,Journey and family time ,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/17/2024 12:51:59,Priyanshu Singh ,21,Male,B.Tech,3rd year,Good,Singing,7-8 hour,Singing,Yes,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Normal
+9/17/2024 12:52:54,Zainul Abedin Khan ,21,Male,B.Tech,4th year ,Sad,Traveling ,7-8 hour,Being with friends and family ,Yes,1,0,1,0,0,1,0,0,3,0,2,1,0,1,0,1,0,1,2,0,0,14,Normal
+9/17/2024 12:58:01,Sadhya Chaturvedi ,21,Female,B.Tech,3rd year,Neutral ,"Watching movies, scrolling phone, spending time with family ",5-6 hour,I don't remember ,No,1,1,2,1,2,2,3,3,1,2,1,1,2,2,1,3,2,1,1,2,1,35,Extremely Severe
+9/17/2024 13:24:28,Mohd Ayat ,21,Male,B.Tech,3rd year,Good,Reading,8-9 hour,Helping others,No,0,2,0,0,2,1,0,1,1,0,0,0,0,0,0,2,0,0,0,0,0,9,Normal
+9/17/2024 13:26:13,Surendra ,20,Male,B.Tech,4th year,Stressful,Cricket ,11-12 hour,family happiness ,No,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,Normal
+9/17/2024 13:42:13,Prachi Sahi,20,Female,MBBS,2nd year,Neutral ,Sketching,4-5 hour,Outing with boyfriend and family,No,3,3,1,3,1,2,3,3,2,1,3,3,3,3,2,3,3,3,3,3,3,54,Extremely Severe
+9/17/2024 13:43:08,MRIGANK,23,Male,MBBS,2nd year,Neutral ,"Gaming , sleeping , binge , songs",5-6 hour,Outings,Yes,3,1,1,1,2,3,1,3,2,1,2,2,3,2,2,3,2,3,2,2,2,43,Extremely Severe
+9/17/2024 13:43:34,amaan,20,Male,B.Tech,3rd year,Neutral ,nothing,4-5 hour,nothing really maybe some candy pop ,No,0,0,0,1,0,0,1,3,1,0,0,1,0,0,0,3,0,0,0,0,3,13,Normal
+9/17/2024 13:44:21,Shivangi ,20,Female,B.Tech,3rd year,Good,To do adventurous things ,7-8 hour,To spend time with ourself,No,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,7,Normal
+9/17/2024 13:51:13,Divyanshu pandey ,22,Male,B.Tech,4th year ,Good,Shayari ,7-8 hour,Listening song ,Yes,1,0,0,0,1,1,0,2,0,0,3,2,0,0,1,0,3,3,0,2,3,22,Moderate
+9/17/2024 13:55:33,Asmita yadav,21,Female,MBBS,2nd year,Neutral ,Visiting cafes,6-7 hour,Went to cafe with my friends,No,1,2,0,0,2,1,0,1,2,0,1,0,0,1,1,0,2,2,2,2,0,20,Moderate
+9/17/2024 13:55:53,Shishir Srivastava ,23,Male,MBBS,2nd year,Sad,Travelling,6-7 hour,Friends,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/17/2024 13:57:26,Nandita Saxena ,20,Female,B.Tech,1st year,Sad,Sketching ,6-7 hour,Talking to freinds,Yes,1,1,3,1,3,1,1,1,2,3,1,2,1,0,1,1,1,3,0,1,2,30,Severe
+9/17/2024 14:00:31,Hiba khan,19,Female,MBBS,2nd year,Good,Volleyball,7-8 hour,"Food , usually food like chocolates, momos ",No,3,0,2,3,3,2,3,3,3,2,3,3,2,3,2,2,3,3,3,3,3,54,Extremely Severe
+9/17/2024 14:01:20,Shagun Yadav,20,Female,MBBS,2nd year,Neutral ,Painting ,9-10 hour,Going to the gym makes me feel productive thus makes me happy ,Yes,3,2,3,3,3,3,3,3,1,3,3,3,3,0,0,3,3,0,3,3,3,51,Extremely Severe
+9/17/2024 14:03:28,Kanishk Kumar,21,Male,B.Tech,4th year,Good,"Singing, Watching Movies, Brisk walking",8-9 hour,Exercises,Yes,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,5,Normal
+9/17/2024 14:11:00,Varsha Pandey ,20,Female,B.Tech,3rd year,Tired,Singing and Playing Badminton ,8-9 hour,"Good Food, Ending of exams, Talking to close friends. ",No,3,1,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2,3,1,1,1,38,Extremely Severe
+9/17/2024 14:11:01,Shreya Chaurasiya ,21,Female,B.Tech,3rd year,Sad,"Dancing, singing and playing games (badminton)",7-8 hour,"Good food, talking to closed friend, ending of exam ",No,3,2,1,0,2,1,1,1,1,1,3,2,2,2,1,1,1,2,1,1,1,30,Severe
+9/17/2024 14:15:02,Komal ,20,Female,B.Tech,4th year,Sad,Sleeping,9-10 hour,Nothing ,No,0,1,0,0,0,1,0,1,1,3,0,0,1,0,0,1,0,0,0,0,0,9,Normal
+9/17/2024 14:15:06,Geetika Jaiswal ,21,Female,MBBS,2nd year,Neutral ,Sometimes drawing or listening music,5-6 hour,A good meal,Yes,2,3,3,2,3,3,2,2,1,2,3,3,2,2,1,2,3,3,2,2,3,49,Extremely Severe
+9/17/2024 14:16:31,Divyanshu singh ,20,Male,B.Tech,2nd year,Neutral ,Sleeping ,5-6 hour,Good health ,Yes,1,2,1,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,9,Normal
+9/17/2024 14:17:24,kajal,20,Female,B.Tech,4th year ,Good,singing ,7-8 hour,No ,Yes,1,1,1,2,2,2,1,2,1,1,2,1,2,2,2,2,1,2,1,3,1,33,Severe
+9/17/2024 14:17:28,Anand Singh,21,Male,MBBS,2nd year,Neutral ,Reading books and listening music ,6-7 hour,Not studying makes me feels good ,No,1,2,0,2,3,0,1,2,1,0,2,1,2,1,2,3,1,1,0,0,0,25,Moderate
+9/17/2024 14:24:21,Garima ,22,Female,B.Tech,Graduate ,Neutral ,Dance n cooking ,5-6 hour,Travelling and dancing ,Yes,2,1,0,2,3,3,2,1,2,3,2,1,3,2,1,2,3,2,2,3,2,42,Extremely Severe
+9/17/2024 14:25:13,kamlesh kumari,19,Female,B.Tech,4th year,Good,Traveling,8-9 hour,I have been finding joy in spending time outdoors.,No,2,0,0,1,1,1,0,1,1,0,1,1,0,0,2,0,0,1,1,2,1,16,Mild
+9/17/2024 14:25:59,Anubhav Pandey,18,Male,B.Tech,3rd year,Tired,watching movies or web series ,5-6 hour,Money ,No,3,3,1,1,3,3,1,1,3,1,3,1,2,1,1,1,0,3,2,3,3,40,Extremely Severe
+9/17/2024 14:26:36,Aman,21,Male,MBBS,2nd year,Sad,Listening to songs,5-6 hour,No joy experienced lately,No,1,0,3,0,2,3,1,2,1,3,2,1,2,1,0,3,0,1,1,0,1,28,Severe
+9/17/2024 14:28:07,Abhishek Kumar ,19,Male,B.Tech,3rd year,Sad,To be data scientist ,6-7 hour,To play cricket ,No,3,3,0,1,1,1,2,1,1,2,1,2,2,2,3,2,0,2,2,0,1,32,Severe
+9/17/2024 14:34:58,Vikash kumar Patel ,21,Male,B.Tech,3rd year,Neutral ,Cricket ,4-5 hour,Play cricket ,No,3,0,1,3,2,2,1,3,1,1,2,3,0,2,3,0,1,3,1,3,0,35,Extremely Severe
+9/17/2024 14:36:36,Mohd Amaan ,21,Male,B.Tech,4th year,Good,Eating,9-10 hour,Sleep,No,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Normal
+9/17/2024 14:50:12,Akash Lohia ,22,Male,MBBS,2nd year ,Neutral ,Travelling ,7-8 hour,Eating good food ,No,1,0,1,1,0,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,9,Normal
+9/17/2024 15:02:31,Yashika,19,Female,B.Tech,3rd year,Neutral ,Listening music sleep watching series,7-8 hour,Nothing,No,3,1,3,2,2,1,2,3,3,3,3,3,3,2,3,2,2,3,2,3,3,52,Extremely Severe
+9/17/2024 15:03:55,Arisha Shamsi ,21,Female,MBBS,2nd year,Good,Travel,6-7 hour,Good food,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/17/2024 15:09:47,Vidhi,18,Female,B.Tech,1st year ,Stressful,Nothing ,6-7 hour,Winning and achievements,No,3,1,1,0,1,1,0,0,0,0,1,1,1,1,1,0,2,1,0,1,1,17,Mild
+9/17/2024 15:14:19,Siddhant Shukla ,19,Male,B.Tech,1st year ,Sad,Srolling screens,6-7 hour,Playing TT,No,1,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,8,Normal
+9/17/2024 15:36:21,Samir Singh,20,Male,MBBS,2nd year,Neutral ,"Watching movies, listening to music, playing guitar",7-8 hour,Friends ,No,2,1,1,0,2,2,0,2,2,1,2,1,2,1,1,2,2,1,0,1,3,29,Severe
+9/17/2024 15:39:29,Lakshay,21,Male,MBBS,2nd year,Sad,Basketball,7-8 hour,Nothing,No,1,0,1,1,2,1,0,1,2,3,2,2,2,3,1,3,3,2,1,1,2,34,Extremely Severe
+9/17/2024 15:39:43,Malav Mahajan,20,Male,MBBS,2nd year,Good,Football ,5-6 hour,Gurnain,Yes,2,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,Normal
+9/17/2024 15:41:20,Shorrya,20,Male,MBBS,2nd year,Good,Gym,6-7 hour,Good food,No,0,0,0,1,1,1,3,1,0,0,0,0,0,1,0,0,0,3,0,0,0,11,Normal
+9/17/2024 15:42:44,Shobhit Singh,21,Male,MBBS,2nd year,Good,"Sleeping , football",7-8 hour,Money,Yes,1,3,1,0,2,1,0,2,3,0,1,2,1,1,0,0,0,2,1,0,0,21,Moderate
+9/17/2024 15:43:36,Kshitij  Yadav ,23,Male,MBBS,2nd year,Good,Riding ,5-6 hour,Sleeping ,No,0,0,0,1,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,Normal
+9/17/2024 15:47:44,Neha,22,Female,MBBS,2nd Year,Neutral ,Listening to Music,5-6 hour,Making Mandala Art,No,1,2,3,2,3,2,1,2,2,2,3,3,3,3,2,3,3,3,3,2,3,51,Extremely Severe
+9/17/2024 15:52:36,Hrishikesh Mishra ,23,Male,MBBS,2nd year,Good,Riding bike if weather is favorable or playing computer games.,4-5 hour,My partner,No,2,2,2,1,2,3,2,3,3,0,1,1,0,1,0,2,0,1,0,3,0,29,Severe
+9/17/2024 15:53:14,Pragya pathak ,19,Female,B.Tech,1st year,Neutral ,Singing dancing cycling ,5-6 hour,Being with family ,No,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6,Normal
+9/17/2024 15:53:35,Prerna arya,20,Female,B.Tech,1st year,Good,"Sketching, Music",8-9 hour,Good food,No,3,2,3,1,3,3,2,3,3,3,3,2,3,2,1,3,3,1,1,1,2,48,Extremely Severe
+9/17/2024 15:56:42,Gurnain sethi,21,Female,MBBS,2nd year,Good,Netflix,6-7 hour,Going out,Yes,1,2,0,0,1,2,0,1,0,0,2,1,1,2,1,0,0,2,0,0,0,16,Mild
+9/17/2024 16:00:30,Chaitanya uppal,23,Male,MBBS,2nd year,Stressful,"Music, small travels",6-7 hour,"My special people, my academic progress and good food tbh",Yes,2,1,3,3,1,2,2,3,3,3,3,3,2,2,3,3,3,3,2,3,3,53,Extremely Severe
+9/17/2024 16:00:52,Varun Choudhary,20,Male,MBBS,2nd year,Good,Listening songs,6-7 hour,Spending time with special ones,No,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,Normal
+9/17/2024 16:07:14,Priyam,18,Female,B.Tech,1st year,Good,Drawing and painting ,6-7 hour,Spending time with friends ,No,1,1,0,1,1,1,2,2,1,0,1,1,1,1,1,1,1,1,1,2,1,22,Moderate
+9/17/2024 16:31:22,Ritika ,18,Female,B.Tech,1st year,Good,Drawing ,4-5 hour,Spending time with friend and family,No,1,0,0,1,0,1,2,1,1,0,3,1,1,1,1,1,0,1,1,0,0,17,Mild
+9/17/2024 16:53:39,Nirdesh Sharma,18,Male,B.Tech,1st year,Stressful,"Playing Table tennis , Cooking , Watching Cricket , Football and Table tennis , Watching political debates...",7-8 hour,"On September 15th, I had a 25-minute phone call with my father for the first time. We had rarely spoken for even a minute before.",No,1,2,0,0,1,0,0,1,3,0,2,1,2,1,2,0,0,0,1,1,3,21,Moderate
+9/17/2024 17:09:30,Yash Raj Gupta ,18,Male,B.Tech,1st year,Good,Talking with friends ,6-7 hour,Talking with my mom,No,1,2,1,0,3,2,1,1,3,1,2,1,1,0,2,1,3,1,0,1,0,27,Severe
+9/17/2024 17:10:01,Shivam yadav ,18,Male,B.Tech,1st year,Sad,Playing cricket and football ,6-7 hour,Travel ,No,0,0,1,0,1,0,0,1,1,0,0,1,1,1,1,1,1,3,0,0,1,14,Normal
+9/17/2024 17:18:36,Narayan Mishra ,21,Male,B.Tech,4th year ,Good,Music,9-10 hour,Good sleep,No,0,0,0,0,1,1,1,0,1,1,1,2,1,1,0,1,1,1,2,1,1,17,Mild
+9/17/2024 17:52:43,Aditya kumar,21,Male,B.Tech,2nd year,Sad,Singing,6-7 hour,Spend time with good friend,No,1,1,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,1,10,Normal
+9/17/2024 17:55:07,Dev,20,Male,B.Tech,3rd year,Good,Traveling,7-8 hour,Traveling,No,2,1,2,1,2,2,2,2,1,2,1,2,1,1,1,1,1,1,2,1,2,31,Severe
+9/17/2024 17:57:51,Aditya karnwal ,22,Male,B.Tech,3rd year,Good,Watching anime ,5-6 hour,Eating ,No,1,0,0,1,2,1,0,1,2,0,1,1,2,0,1,1,2,3,0,1,1,21,Moderate
+10/3/2024 22:59:36,Bhagyashree Sahoo,22,Female,MBBS,1st year,Good,Travelling ,9-10 hour,Travelling ,Yes,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,Normal
+9/17/2024 18:04:44,PRACHI JINDAL,23,Female,MBBS,2nd year,Good,Sports,5-6 hour,Talking with friends,No,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,Normal
+9/17/2024 18:06:07,Palak thakur ,19,Female,Bachelor of science ,1st year,Neutral ,Songs ,4-5 hour,Moon and star gazing ,No,2,2,1,3,3,3,2,1,3,1,3,2,2,2,3,3,3,2,2,3,3,49,Extremely Severe
+9/17/2024 18:17:16,Deepak Baghel,20,Male,B.Tech,3rd year,Good,Dnace and singing,8-9 hour,By performing,Yes,1,1,0,0,2,1,0,2,2,1,2,1,2,1,1,1,1,1,1,1,1,23,Moderate
+9/17/2024 18:21:02,Tarun Verma ,20,Male,B.Tech,3rd year,Good,Dance,7-8 hour,Dance ,No,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,23,Moderate
+9/17/2024 18:23:16,Vidisha ,21,Female,B.Tech,2nd year,Good,Talking with my friends ,3-4 hour,My best friend ,No,3,2,2,0,0,3,0,3,3,2,2,2,3,2,3,2,3,2,3,2,3,45,Extremely Severe
+9/17/2024 18:23:25,Prabhat ,19,Male,MBBS,1st year,Tired,Londiyabaazi ,4-5 hour,Ldkiya,No,2,1,1,0,1,1,0,1,1,1,0,1,1,1,2,1,1,1,1,2,1,21,Moderate
+9/17/2024 18:24:04,Anurag verma ,21,Male,MBBS,3rd year,Good,Playing Badminton ,5-6 hour,Completing my syllabus ,No,1,1,0,0,2,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,10,Normal
+9/17/2024 18:24:53,Kamaljit kaur,18,Female,Bachelor of science ,1st year,Good,Reading books,8-9 hour,Talking with others ,Yes,1,1,1,0,3,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,19,Moderate
+9/17/2024 18:25:52,Jasmine,18,Female,Bachelor of science ,1st year,Good,Listen music,7-8 hour,Talk with special ones ,No,1,3,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,3,1,1,0,26,Severe
+9/17/2024 18:26:02,Raktim Kumar purkayastha ,20,Male,B.Tech,2nd year,Stressful,Acting,5-6 hour,Taking to bestie and friends together with doing stuff I like,No,2,1,0,1,0,3,1,1,1,2,1,2,1,2,1,1,2,3,2,2,1,30,Severe
+9/17/2024 18:26:57,Deepanshu gupta ,21,Male,B.Tech,4th year,Good,Good engineer,7-8 hour,Study ,No,2,0,0,1,2,1,1,0,0,0,2,3,3,2,3,2,2,1,2,1,2,30,Severe
+9/17/2024 18:32:22,shagun Thakur,18,Female,Bachelor of science ,1st year,Good,play games,4-5 hour,yes,No,3,0,1,3,0,3,0,3,3,0,1,3,0,3,0,1,0,3,0,1,3,31,Severe
+9/17/2024 18:34:13,Shubhneet Chandel ,18,Male,B.Tech,1st year,Good,Singing and listening songs,6-7 hour,Talking to someone who cares for me ,Yes,0,1,0,0,0,2,1,1,1,0,0,0,1,0,0,1,0,2,0,2,0,12,Normal
+9/17/2024 18:36:58,Jagamaya Rajak ,20,Female,Bachelor of science ,3rd year,Sad,Dancing ,5-6 hour,Alone stay ,Yes,2,1,1,0,1,2,1,1,2,2,2,2,3,2,2,1,2,2,2,2,1,34,Extremely Severe
+9/17/2024 18:37:10,Kaushiki ,20,Female,B.Tech,3rd year,Good,"Playing volleyball, listening music",5-6 hour,Conversation with some people ,No,1,0,1,0,3,1,1,0,1,1,1,1,1,0,1,1,0,3,0,1,0,18,Mild
+9/17/2024 18:37:54,Sakshi ,18,Female,Working professional ,Dance ,Neutral ,Badminton ,7-8 hour,No,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/17/2024 18:38:15,Sneha dua,20,Female,Working professional ,3rd year,Neutral ,Listening  music ,6-7 hour,Songs,No,2,2,3,1,0,1,2,2,3,0,2,1,0,3,3,2,1,0,0,2,3,33,Severe
+9/17/2024 18:43:32,Bhavna,19,Female,B.Tech,1st year ,Neutral ,Talking with my favourite persons ,8-9 hour,I dont remember ,Yes,1,0,1,0,3,0,0,1,1,0,0,1,0,0,1,1,3,2,0,1,0,16,Mild
+9/17/2024 18:45:00,Yashi Yadav ,19,Female,B.Tech,2nd year,Sad,Watching mobile,4-5 hour,Nothing ,No,2,0,2,3,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,42,Extremely Severe
+9/17/2024 18:45:33,Amrit,18,Female,Bachelor of science ,1st year,Good,Listening music ,7-8 hour,Listening music ,No,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,3,Normal
+9/17/2024 18:45:58,Sunidhi,20,Female,Bachelor of science ,1st year,Good,Badminton ,9-10 hour,Time spend with family,No,1,1,2,3,0,1,2,3,1,2,3,2,1,2,1,1,2,0,2,3,3,36,Extremely Severe
+9/17/2024 18:48:05,Manvir kaur ,18,Female,Bachelor of science ,1st year,Sad,Listening songs at night ,8-9 hour,Talk with parents,No,1,1,1,1,0,1,1,1,1,1,1,2,1,1,1,0,0,3,1,1,1,21,Moderate
+9/17/2024 18:49:49,Palvi Rana,18,Female,Bachelor of science ,1st year,Tired,Reading books ,11-12 hour,Travelling ,No,1,2,3,2,2,1,3,3,3,2,2,2,2,1,1,1,3,2,2,3,2,43,Extremely Severe
+9/17/2024 18:52:49,Priyanka chihard ,18,Female,Bachelor of science ,1st year,Good,Painting ,6-7 hour,Talk to my mother ,Yes,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,2,0,1,1,20,Moderate
+9/17/2024 18:52:50,Khushbu,18,Female,Bachelor of science ,1st year,Good,Acting,7-8 hour,Talk with parents,No,3,1,1,0,0,0,0,1,0,1,1,2,2,0,0,0,1,2,2,2,0,19,Moderate
+9/17/2024 18:54:54,Anushka Choudhary ,18,Female,Bachelor of science ,4th year,Good,Music ,8-9 hour,Yes,No,1,2,3,0,2,0,0,2,0,3,0,2,1,2,0,3,2,3,1,0,3,30,Severe
+9/17/2024 18:55:12,Priyanka Vishwakarma ,21,Female,B.Tech,3rd year ,Tired,"When I was kid ,I like may things but now,I don't have any hobby",7-8 hour,"When I talk with my friend,I feel happy for that moments ",No,3,2,1,0,3,2,0,3,3,1,3,3,3,2,1,2,0,3,0,2,3,40,Extremely Severe
+9/17/2024 18:57:25,Ishika mehra,18,Female,Bachelor of science ,1st year,Good,Playing,11-12 hour,Study,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/17/2024 18:58:22,Vishal chohan,19,Male,Bachelor of science ,1st year,Good,Listen music,6-7 hour,Mom ,No,1,1,0,1,3,2,1,2,2,1,3,0,1,0,3,2,2,2,0,2,3,32,Severe
+9/17/2024 18:59:39,ROYANSULEMAN,19,Male,Bachelor of science ,1st year ,Good,Sketching with Music ,7-8 hour,Everything ,No,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,Normal
+9/17/2024 19:00:12,Tejasvi thakur ,18,Female,Bachelor of science ,1st year,Neutral ,Dancing or acting ,6-7 hour,Talking with friends ,No,1,0,2,1,1,1,2,3,2,0,1,2,1,1,1,1,1,2,1,2,1,27,Severe
+9/17/2024 19:00:13,Simran,18,Female,Bachelor of science ,1st year,Good,Dancing,7-8 hour,Music listening ,No,0,0,1,0,0,0,1,0,3,3,1,3,0,3,0,0,3,0,0,3,3,24,Moderate
+9/17/2024 19:07:45,Navdeep Kaur ,18,Female,Bachelor of science ,4th year,Good,Doctor ,4-5 hour,Flower ,Yes,0,1,2,3,3,3,3,3,3,3,3,2,1,1,2,3,3,3,1,0,1,44,Extremely Severe
+9/17/2024 19:09:49,Sonia,18,Female,Bachelor of science ,1st year,Good,Listen music,7-8 hour,Talking with friends,No,2,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,1,0,12,Normal
+9/17/2024 19:10:53,Aditi kaur ,19,Female,Bachelor of science ,1st year,Good,"Dancing 💃, singing 🎶 ♥️ ",5-6 hour,When i talk to my favourite person 😁,No,2,2,0,0,2,2,1,2,2,2,1,1,1,2,1,0,1,0,1,1,1,25,Moderate
+9/17/2024 19:14:18,Muskan ,18,Female,Bachelor of science ,1st year,Neutral ,"Self exploration, eating food,listening music.",7-8 hour,"Conversation of parents ,friends ",Yes,0,2,3,1,3,0,2,0,1,0,0,0,3,3,2,2,3,3,2,3,0,33,Severe
+9/17/2024 19:15:45,Harpreet Kaur ,18,Female,Bachelor of science ,1st year,Sad,Writing ,8-9 hour,Entertainment ,No,0,3,3,0,0,0,2,2,3,1,2,3,0,2,3,2,3,3,0,0,0,32,Severe
+9/17/2024 19:17:01,Shruti gupta ,19,Female,MBBS,1st year,Good,Singing ,6-7 hour,Idk,Yes,1,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,1,10,Normal
+9/17/2024 19:19:31,Harmanpreet kaur ,19,Female,Bachelor of science ,1st year,Good,Drawing ,6-7 hour,Talk to my mother,Yes,2,0,1,1,1,1,2,3,1,0,1,1,0,2,1,1,3,3,2,1,3,30,Severe
+9/17/2024 19:20:44,Ruchika,18,Female,Bachelor of science ,1st year,Neutral ,Playing games,8-9 hour,Having that first sip of coffee in the morning ,No,0,0,1,0,0,2,1,3,2,2,0,2,1,1,1,1,1,3,2,3,3,29,Severe
+9/17/2024 19:22:42,Karanpreet ,18,Female,Bachelor of science ,1st year,Good,Traveling ,6-7 hour,Family sepend time,Yes,2,1,3,1,3,2,0,3,1,3,0,2,1,2,1,1,0,1,3,3,0,33,Severe
+9/17/2024 19:23:57,Rajni,18,Female,Bachelor of science ,1st year,Good,dancing ,5-6 hour,dance,No,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,3,0,1,0,8,Normal
+9/17/2024 19:25:07,Riya,18,Female,Bachelor of science ,1st year,Good,Listening music,8-9 hour,Listening music ,No,1,0,1,1,1,1,0,0,2,0,1,0,1,1,1,1,1,2,0,2,3,20,Moderate
+9/17/2024 19:27:31,Muskan rana ,18,Female,Bachelor of science ,1st year,Sad,Playing basketball ,9-10 hour,Relationship,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,Normal
+9/17/2024 19:36:56,Mridul Kawatra ,19,Male,Bachelor of science ,1st year,Stressful,Listening Music,6-7 hour,Gossiping with my friends ,Yes,2,1,1,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,11,Normal
+9/17/2024 19:37:09,Varneet Kaur ,18,Female,Bachelor of science ,Ist year,Good,Cooking.,5-6 hour,Watching web series ,Yes,0,0,0,0,0,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,5,Normal
+9/17/2024 19:40:15,Mandeep kaur ,18,Female,Bachelor of science ,1st year,Good,Study,5-6 hour,Study,Yes,0,1,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,0,12,Normal
+9/17/2024 19:44:29,Bavleen kaur,19,Female,Bachelor of science ,1st year,Good,Dancing,6-7 hour,Using Phone ,No,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,5,Normal
+9/17/2024 19:51:18,Sarthak Kumar,19,Male,B.Tech,3rd year,Neutral ,Sketching,7-8 hour,doing the little things well,No,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,9,Normal
+9/17/2024 19:55:42,Simran ,19,Female,Bachelor of science ,4th year,Good,Singing,9-10 hour,Yes,Yes,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,2,0,0,10,Normal
+9/17/2024 20:05:51,Manisha,18,Female,Bachelor of science ,1st year,Stressful,Cooking,4-5 hour,Spend time with family and friends,No,3,2,3,2,2,3,2,3,3,3,3,2,2,2,3,3,3,3,2,3,3,55,Extremely Severe
+9/17/2024 20:13:06,Shaifali,18,Female,Bachelor of science ,1st year,Good,Badminton,7-8 hour,Vacations,Yes,0,0,2,1,1,0,1,1,1,0,1,1,1,1,2,0,0,2,1,0,0,16,Mild
+9/17/2024 20:15:26,Hamisha,18,Female,Working professional ,Few weeks ,Good,Reading book,5-6 hour,Yes,No,3,0,3,3,3,0,3,0,0,1,0,1,0,3,2,1,2,0,0,3,3,31,Severe
+9/17/2024 20:23:33,Harpreet kaur ,18,Female,Bachelor of science ,1st year,Good,Listening music ,5-6 hour,Spending time with myself ,Yes,1,0,1,1,1,1,1,3,3,1,1,0,1,1,1,1,1,3,0,1,0,23,Moderate
+9/17/2024 20:27:13,Simranjit kaur,18,Female,Bachelor of science ,1st year ,Good,My hobby is reading books ,4-5 hour,when i talk with  my friend about how my life going on he/she listhen it care fully ,Yes,3,0,1,2,2,2,0,1,3,2,1,3,2,1,0,1,3,3,3,3,3,39,Extremely Severe
+9/17/2024 20:28:19,Muskan sehjal,18,Female,MBBS,1st year,Good,Wathching tv ,9-10 hour,Outing,No,1,0,3,0,1,0,1,2,0,0,1,0,1,1,1,1,2,2,1,1,1,20,Moderate
+9/17/2024 20:36:59,Jashanpreet kaur,18,Female,Bachelor of science ,1st year,Good,Ot technician,5-6 hour,Spend time with family and friends,No,0,1,0,2,1,1,2,0,0,0,0,0,1,2,2,2,0,1,1,2,2,20,Moderate
+9/17/2024 20:37:43,Alisha kapoor,18,Female,Bachelor of science ,1st year,Good,Writing skills,7-8 hour,By getting  highest grade,No,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,Moderate
+9/17/2024 20:45:46,Priya,19,Female,Bachelor of science ,1st year,Good,Singing dancing ,6-7 hour, Whenever I go in my worship room in front of lord krishna that time I feel happy ,No,3,0,0,0,2,1,1,1,1,0,1,1,3,1,0,3,0,1,0,2,0,21,Moderate
+9/17/2024 20:48:00,Tania ,18,Female,Bachelor of science ,1st year,Good,Dancing ,6-7 hour,Time spend with frnds,No,3,0,2,0,2,1,1,1,3,1,2,2,1,2,2,0,3,1,3,2,1,33,Severe
+9/17/2024 20:52:14,Lucky Mishra ,18,Female,B.Tech,2nd year,Stressful,To talk with different kind of people ,9-10 hour,To talk alot with my favourite person ,Yes,2,1,1,1,0,1,2,3,3,2,3,2,2,1,3,0,0,3,0,3,0,33,Severe
+9/17/2024 21:16:37,Satya sakshi,18,Female,B.Tech,1st year ,Good,Dance  ,4-5 hour,Nothing,No,0,3,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,7,Normal
+9/17/2024 21:26:12,Shivansh Chaturvedi ,21,Male,B.Tech,2nd year,Good,Listening to music,7-8 hour,Music ,No,1,0,0,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,22,Moderate
+9/17/2024 21:28:15,Ishu,20,Male,B.Tech,2nd year,Good,Painting,6-7 hour,Talking with one who care for me,Yes,3,3,1,2,1,1,3,2,1,0,1,2,1,1,2,0,0,1,2,0,0,27,Severe
+9/17/2024 21:36:31,Divya pal,19,Female,Bachelor of science ,1st year,Good, Playing Badminton,5-6 hour,Parents  or nature ,Yes,0,0,2,0,1,2,1,1,1,0,1,1,1,0,1,1,0,2,0,0,1,16,Mild
+9/17/2024 21:37:41,Isha Rana,19,Female,Bachelor of science ,1st year,Good,Playing badminton,6-7 hour,My parents ,Yes,0,0,0,0,1,1,0,0,0,1,0,2,1,0,1,2,0,2,1,0,1,13,Normal
+9/17/2024 21:46:44,Muskan Agrawal ,20,Female,B.Tech,2nd year,Good,Content writing,4-5 hour,When i behave like a child ,No,2,1,0,1,3,1,1,1,2,1,1,1,1,1,1,0,0,0,1,1,0,20,Moderate
+9/17/2024 21:59:06,Shubham Yadav ,18,Male,B.Tech,1st year ,Sad,"Playing badminton, cricket ",5-6 hour,"Playing badminton, cricket ",Yes,2,1,3,0,2,1,1,3,2,3,3,3,3,1,2,1,3,2,0,1,3,40,Extremely Severe
+9/17/2024 22:10:18,Jyoti Kamal,23,Female,B.Tech,Graduate,Good,Sketching ,7-8 hour,Completing my projects on time,No,2,0,2,0,1,3,0,1,3,0,1,2,3,0,1,2,3,1,0,1,0,26,Severe
+9/17/2024 22:41:56,Suman kumari,21,Female,Working professional ,1st year,Sad,Listen to song,7-8 hour,🙏🙇Pray to god,No,0,0,0,0,2,3,0,0,1,1,0,3,0,0,3,1,1,3,0,0,0,18,Mild
+9/18/2024 8:51:41,Syed Siraj ,22,Male,B.Tech,4th year ,Good,Mobile phone.(Art and craft/ space and universe study),7-8 hour,Hard work towards my exams and goals ,Yes,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Normal
+9/18/2024 12:21:35,Sumit kumar,19,Male,B.Tech,1st year,Good,Reading books and playing cricket ,8-9 hour,Together friends ,No,0,0,0,0,0,1,0,2,2,0,1,1,0,0,0,1,0,0,0,0,0,8,Normal
+9/18/2024 12:22:51,Rajat Singh,18,Male,B.Tech,1st year,Tired,Singing,5-6 hour,Nothing,No,2,0,1,0,1,1,0,1,0,0,0,1,0,1,0,1,0,1,0,1,1,12,Normal
+9/18/2024 12:57:43,Preetam Biswas ,19,Male,B.Tech,1st year,Good,Playing cricket and singing song ,5-6 hour,Playing cricket ,No,1,1,1,0,1,1,2,2,2,1,1,1,1,1,0,1,0,1,1,0,1,20,Moderate
+9/18/2024 13:51:45,Sanchit Singh,18,Male,B.Tech,1st year,Good,"Video editing, Gaming etc.",5-6 hour,Solving Questions and Understanding them,No,1,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,2,8,Normal
+9/18/2024 13:58:48,Arisha khan,18,Female,B.Tech,1st year,Neutral ,Dancing and travelling ,6-7 hour,When I went back to my house from hostel in these holidays ,Yes,1,0,1,0,1,0,0,1,0,0,0,0,3,0,0,0,0,1,0,0,0,8,Normal
+9/18/2024 15:38:15,Sai deependra kumar nanda ,19,Male,B.Tech,1st year,Tired,Gym,5-6 hour,No,No,0,0,1,0,3,2,0,3,3,3,2,1,3,3,2,1,1,2,1,0,1,32,Severe
+9/18/2024 15:41:03,Varunda,19,Male,B.Tech,1st year,Sad,Listing music ,8-9 hour,Cricket ,No,0,0,1,0,2,1,0,0,3,2,2,1,3,2,1,3,3,1,2,0,2,29,Severe
+9/18/2024 15:53:23,Saurabh kr. Yadav,19,Male,B.Tech,1st year,Neutral ,Sports,6-7 hour,Nothing,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/18/2024 16:18:42,Paridhi Pal,18,Female,B.Tech,1st year,Neutral ,"Painting, dancing, writing and planting",4-5 hour,"Listening music and walking, birds",Yes,3,0,2,3,3,3,3,3,3,2,3,3,3,2,3,0,2,1,3,3,0,48,Extremely Severe
+9/18/2024 19:25:57,Tanishtha Agarwal,18,Female,B.Tech,1st year,Sad,Listening to music or sleeping ,8-9 hour,Travelling or hanging out with my friends ,Yes,2,1,1,1,0,1,3,1,2,1,2,1,2,1,1,1,2,1,1,1,1,27,Severe
+9/18/2024 17:08:49,Divya Gupta ,18,Female,B.Tech,1st year,Good,Sketching or listening to some good music ,7-8 hour,Spending time with friends ,No,1,1,1,1,0,0,0,2,1,0,1,2,0,1,1,3,0,1,1,0,0,17,Mild
+9/18/2024 19:42:02,Saumya,18,Female,B.Tech,1st year,Good,Reading ,5-6 hour,Environmental ,No,2,3,0,0,1,1,0,0,1,0,1,1,0,0,1,0,1,1,1,0,0,14,Normal
+9/18/2024 21:45:08,Bhawana Bhola,19,Female,B.Tech,1st year,Good,Dancing,9-10 hour,Talking to mother and listening songs,No,3,1,0,0,1,1,0,0,0,1,1,1,1,3,0,1,1,3,0,1,1,20,Moderate
+9/18/2024 21:53:42,Priyanshu yadav,18,Female,B.Tech,1st year,Neutral ,Sayri sunna  Mujhe (jaun elia sir) ki sayri bahut pasand hai akshar mujhe sayri sunna aur ushe likhna pasand hai,9-10 hour,Yeshi to koi khash baat nhi hai jishe mujhe sochkar khushi milti hai,No,1,1,1,1,3,3,3,3,3,2,3,3,3,3,3,3,3,3,1,2,0,48,Extremely Severe
+9/18/2024 22:09:02,Ankita Bhargava,18,Female,B.Tech,1st year,Good,Playing chess,5-6 hour,Music make me fresh. It give me happiness. ,No,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,4,Normal
+9/18/2024 22:36:18,Harshita yadav,18,Female,B.Tech,1st year,Good,I like listening songs and reading novels,7-8 hour,Festivals ,Yes,1,2,1,0,0,1,1,2,1,0,0,0,0,0,0,0,0,1,0,1,0,11,Normal
+9/19/2024 0:16:17,Mrittika Chandra ,22,Female,B.Tech,4th year,Neutral ,"Binge watching series and movies, Listening music, reading books , food as well",7-8 hour,"Conversations with my brother and some friends, outing with my bestie, watching a good series or movie",Yes,3,0,2,2,3,3,1,3,3,3,3,2,3,3,3,3,3,3,1,0,3,50,Extremely Severe
+9/19/2024 10:01:43,Savita yadav,20,Female,B.Tech,1st year,Good,Playing games,6-7 hour,When I complete my work.,No,3,0,3,0,3,3,0,3,3,0,3,3,3,3,0,1,1,3,1,0,0,36,Extremely Severe
+9/19/2024 17:46:49,Saakshi ,22,Female,Working professional ,1 year,Neutral ,Listening to songs,7-8 hour,Practicing self care and mindfulness ,No,2,2,1,0,0,2,0,1,1,0,1,1,0,0,0,0,0,1,0,1,0,13,Normal
+9/20/2024 13:45:19,Alaina khan,18,Female,B.Tech,1st year ,Neutral ,writing,5-6 hour,"chocolates, books, writing ",Yes,1,0,0,2,3,0,1,2,1,0,1,2,1,0,1,1,0,3,1,0,3,23,Moderate
+9/20/2024 13:46:28,Mohd. Areeb Abdullah,18,Male,B.Tech,1st year,Neutral ,Video games and sports,7-8 hour,Being productive,No,1,0,1,0,2,0,3,0,2,2,0,0,2,3,0,0,0,2,0,1,0,19,Moderate
+9/20/2024 13:47:09,Ishu singh,19,Male,B.Tech,1st year,Good,Watching movies and gym,6-7 hour,My Work done perfectly make feel joy to me,No,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,9,Normal
+9/20/2024 13:50:44,Deepak gangwar,19,Male,B.Tech,1st year,Neutral ,Chess and gaming ,5-6 hour,Stories,No,1,1,2,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,9,Normal
+9/20/2024 13:55:31,syed kaif ali,19,Male,B.Tech,1st year,Neutral ,playing football and designing car and etc,6-7 hour,playing football and enjoyment with family and friend,No,1,2,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,10,Normal
+9/20/2024 13:57:25,Mohd Faraz ,18,Male,B.Tech,1st year,Neutral ,Music/sports,6-7 hour,Music/sports ,No,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,Normal
+9/20/2024 19:45:48,Utkarsh Ojha ,19,Male,B.Tech,2nd year,Good,Singing ,5-6 hour,Music ,No,1,1,1,1,1,1,1,1,1,1,1,2,0,0,0,0,0,1,0,0,0,14,Normal
+9/20/2024 19:47:53,Aliya Mojiz,21,Female,B.Tech,4th year,Neutral ,Watching series and movies.,6-7 hour,Nothing ,No,3,0,2,1,2,3,2,3,3,3,3,3,3,3,2,2,2,2,2,2,2,48,Extremely Severe
+9/20/2024 19:48:54,Ayush tiwari ,23,Male,Working professional ,3 year ,Neutral ,Nothing ,4-5 hour,Clients ,No,2,1,1,0,0,0,2,3,3,3,0,2,2,1,1,3,1,1,2,1,2,31,Severe
+9/20/2024 20:08:23,Adarsh ojha,18,Male,B.Tech,1st year,Good,Reading,6-7 hour,Everything ,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/21/2024 0:42:14,Harshit Rajput ,20,Male,B.Tech,4th year,Good,Computer games ,7-8 hour,Playing games ,No,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,Normal
+9/21/2024 7:57:53,Sejal patel,20,Female,Bachelor of science ,3rd year,Good,Singing,7-8 hour,Spending time with my family and friend ,No,1,2,0,1,1,1,0,1,1,0,1,2,1,2,0,0,1,1,1,1,0,18,Mild
+9/21/2024 9:11:00,Himanshu Patel ,20,Male,Working professional , 1 year,Good,Play BGMI(Battleground game),7-8 hour,Being with friends ,No,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,4,Normal
+9/21/2024 9:47:11,Vishal Diwakar,20,Male,B.Tech,3rd year,Good,Playing cricket and exploring new worlds through books. ,6-7 hour,Spending time with friends and family brings me so much joy. ,No,2,3,0,1,1,0,2,2,1,0,2,1,1,2,1,0,0,1,2,0,0,22,Moderate
+9/22/2024 22:06:11,Rohan Vashistha,23,Male,B.Tech,4th year,Neutral ,Trading ,6-7 hour,Travelling,No,1,2,2,0,0,0,0,1,2,2,2,2,0,1,0,0,0,3,0,3,0,21,Moderate
+9/22/2024 22:46:23,Prince,22,Male,Bachelor of science ,4th year,Good,footboll,5-6 hour," It feels good to be a part of learning journeys and see ideas take shape, especially when we tackle something complex or exciting together",No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+9/22/2024 23:20:46,Pankaj kumar,21,Male,B.Tech,4th year,Good,"Reading, learning and exploring new things, Exercising",7-8 hour,"Helping peoples, and when my closest one and my family are happy",No,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Normal
+9/23/2024 11:20:41,Saloni singh,21,Female,B.Tech,4th year,Good,Badminton ,3-4 hour,Playing badminton ,No,0,0,1,1,2,1,3,2,1,0,0,2,2,3,0,1,2,3,2,1,1,28,Severe
+9/23/2024 11:21:25,Anamika ,20,Female,B.Tech,4th year ,Stressful,Playing ,6-7 hour,Music ,No,3,0,1,2,2,2,2,1,1,2,1,1,2,2,3,2,1,2,2,2,2,36,Extremely Severe
+9/23/2024 11:27:51,Shrejal Jaiswal ,21,Female,B.Tech,4th year,Neutral ,Badminton ,7-8 hour,Listening Music,No,1,0,0,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,9,Normal
+9/23/2024 14:03:04,Saumya Pandey,22,Female,Working professional ,1 year,Good,Travelling ,5-6 hour,When i see my favourite dog,No,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Normal
+9/24/2024 12:41:17,Prafull Kumar,22,Male,MBBS,2nd year ,Good,Listening song and playing game,6-7 hour,Watching stand up comedy ,No,1,1,1,0,1,3,0,1,0,1,1,1,1,1,1,0,1,1,1,2,0,19,Moderate
+9/25/2024 19:51:14,Aashish Kumar,21,Male,B.Tech,3rd year,Good,Watching movie ,8-9 hour,Time with friends ,No,2,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,7,Normal
+10/3/2024 20:11:44,Saisha Goyal,20,Female,B.Tech,4th year,Tired,"Drawing, writing poetry",8-9 hour,"Clicking pics of scenery, sky, meaningful conversations",No,1,0,1,0,2,0,0,2,3,1,1,0,0,1,1,0,0,0,1,2,0,16,Mild
+10/3/2024 21:15:33,Aditya Sharma ,20,Male,B.Tech,1st year,Neutral ,Football ,3-4 hour,Talking to friends ,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+10/3/2024 21:17:41,Kartik Choudhary ,18,Male,B.Tech,1st year,Good,YouTube ,7-8 hour,After seeing my day well spend.,No,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal
+10/3/2024 21:23:39,Amit Gangwar ,20,Male,B.Tech,3rd year ,Good,Singing ,11-12 hour,When the things are going in my favour ,No,1,0,1,2,1,3,0,3,1,0,3,1,1,1,1,1,1,0,1,1,0,23,Moderate
+10/3/2024 21:52:04,Pratibha singh,18,Female,B.Tech,2nd year,Good,Reading,6-7 hour,Binge watching,No,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,Normal
+10/3/2024 21:58:02,Nitin,19,Prefer not to say,B.Tech,2nd year,Tired,Reading ,5-6 hour,Nothing ,No,3,0,0,0,1,3,3,3,3,0,3,0,0,0,0,0,0,0,0,0,0,19,Moderate
+9/8/2024 15:57:24,Ansh Srivastava ,22,Male,B.Tech,4th year,Neutral ,Reading books and coding ,9-10 hour,Meeting with friends and nature ,No,2,1,1,1,2,1,0,2,3,2,1,0,1,1,0,1,0,2,2,2,1,26,Severe
+10/3/2024 23:47:22,Bhumi,21,Female,MBBS,2nd year,Sad,Poetry ,7-8 hour,Music,No,1,3,2,0,1,3,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,38,Extremely Severe
+10/4/2024 8:23:02,Sneha ,22,Female,MBBS,2nd year,Neutral ,Movies books travel cafe clubs,5-6 hour,Nothing ,No,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,7,Normal
+10/4/2024 12:36:15,Anupam Jaiswal ,22,Male,B.Tech,4th year ,Good,"Workouts, bike rides, singing songs",7-8 hour,Workouts and long drives,No,0,0,0,0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,9,Normal
+10/4/2024 12:59:47,Rudra Pratap Singh,18,Male,B.Tech,1st year,Neutral ,Games and Non fictional novels,4-5 hour,Talking to my old friends,No,2,1,1,0,2,1,0,1,2,1,1,1,1,2,1,3,2,3,2,0,1,28,Severe
+,Rakshit Raj singh,19,Male,MBBS,1st year,Neutral ,Night drive with my favourite songs playing ,5-6 hour,Spending time with my cousins and friends,No,2,3,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,2,13,Normal
+10/4/2024 15:59:45,Shubhi Rathore ,21,Female,B.Tech,3rd year,Tired,Gardening ,4-5 hour,Food,No,1,1,2,2,1,0,2,1,2,1,2,2,2,1,2,2,2,1,2,2,1,32,Severe
+10/4/2024 16:09:21,Yatika Shyamnani ,21,Female,Working professional ,1 year,Good,Just making arts,8-9 hour,Talkings with the fav person ,No,1,0,1,0,0,1,2,1,1,2,1,0,0,0,0,0,0,1,0,1,0,12,Normal
+10/4/2024 16:10:51,Vipin Chauhan,21,Male,Working professional ,1 year,Neutral ,Travel,7-8 hour,Friends and Family,No,2,1,0,1,2,2,1,1,2,2,2,1,1,1,0,0,3,2,2,2,2,30,Severe
+10/4/2024 16:13:09,Padamshree Verma ,21,Female,Bachelor of science ,2nd year,Sad,Talking ,6-7 hour,Enjoy with friends and scrolling ,No,3,3,1,0,3,0,3,2,2,0,3,0,2,3,1,3,3,0,0,3,3,38,Extremely Severe
+10/4/2024 17:28:12,Aastha Chauhan,21,Female,MBBS,4th year,Good,Yoga,5-6 hour,Watching Tv ,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,Moderate
+10/4/2024 18:12:50,Vidushi Kulshrestha ,18,Female,MBBS,3rd year,Neutral ,Sleeping ,5-6 hour,School friends ,No,1,0,1,2,3,2,0,2,3,0,2,1,1,1,1,2,0,3,2,3,0,30,Severe
+10/4/2024 19:02:29,Tejal,18,Female,MBBS,1st year,Good,"Writing, crafting, cooking ",5-6 hour,I have been studying better than before and I get to spend my days with my pets,Yes,1,2,0,0,1,1,0,2,2,0,0,1,1,0,0,1,0,0,0,0,0,12,Normal
